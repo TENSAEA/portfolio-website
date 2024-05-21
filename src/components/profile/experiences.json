@@ -1,0 +1,32 @@
+{
+    "experiences": [
+       
+        {
+            "title": "Software Customizer",
+            "subtitle": "Addis Ababa University Digital Library",
+            "workType": "Internship",
+            "workDescription": [
+                "Worked on DSPACE"
+            ],
+            "dateText": "11/2023 – 02/2024"
+        },
+        {
+            "title": "Coding Trainer",
+            "subtitle": "Code JIKA and KODER lab Company",
+            "workType": "Programming Instructor",
+            "workDescription": [
+               
+            ],
+            "dateText": "04/2024 – Present"
+        },
+        {
+            "title": "Technology Club President",
+            "subtitle": "Addis Ababa University",
+            "workType": "President",
+            "workDescription": [
+               
+            ],
+            "dateText": "09/2023 – Present"
+        }
+    ]
+}

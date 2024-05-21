@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/tensae-aschalew-339368239"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/TENSAEA"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:tensaeaschalew27@gmail.com"
+        }
+    ]
+}

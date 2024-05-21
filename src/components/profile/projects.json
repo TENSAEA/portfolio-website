@@ -1,0 +1,145 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/lira.png",
+            "title": "LIRA Workspace",
+            "bodyText": "- Project Management Website made in MERN with Redux Toolkit and Query\n -  Fully customisable and dynamic, easily change data and images.\n - With Authentication",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/TENSAEA/lira-workspace-backend.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://lira-workspace-api.onrender.com"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Mongodb",
+                "JavaScript",
+                "Expressjs",
+                "ReduxToolkit"
+            ]
+        },
+        {
+            "image" : "images/projects/quicknotes.png",
+            "title": "Quicknotes",
+            "bodyText": "- A Note app made using MERN stack with Axios\n - Added User authentication.\n - Deployed on render",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/TENSAEA/quicknote-frontend-mern.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://quicknote-ydsm.onrender.com/"
+                }
+            ],
+            "tags" : [
+                "Mongodb",
+                "React",
+                "Material UI",
+                "Nodejs",
+                "Expressjs"
+                ,"Axios"
+            ]
+        },
+        {
+            "image" : "images/projects/filehandler.png",
+            "title": "File Handler",
+            "bodyText": "- A File handler website using MERN with mysql\n - You can upload files and edit the description\n - I used Sequlizer",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/TENSAEA/file-uploader-mern-with-mysql.git"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Mongodb",
+                "Mysql",
+                "Expressjs"
+            ]
+        },
+        {
+            "title": "Digital Equb",
+            "bodyText": "- A Digital Equb Site made by MERN Stack\n - Authentication with payment\n - With many features like equb drawing, chat forum\n - Ethiopian Tradition",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/TENSAEA/Digital-Equb-Backend-Mern-Updated.git"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Node",
+                "Mongodb",
+                "Expressjs"
+            ]
+        },
+        {
+            "title": "Home Rental",
+            "bodyText": "- Rental Website made by MERN\n - With Authentication",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/TENSAEA/home-rental-backend-team-2.git"
+                }
+            ],
+            "tags" : [
+"Nodejs",
+"Expressjs",
+"Mongodb",
+"React"
+            ]
+        },
+        {
+            "title": "Technology Club Site",
+            "bodyText": "- Wordpress Site for The AAU Tech Club \n - Made by Wordpress\n - Hosted on infinite free",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://technologyofsocialscienceclubaau.wuaze.com/"
+                }
+            ],
+            "tags" : [
+                "Kotlin",
+                "Android",
+                "MVVM",
+                "Paging 3",
+                "Coroutines",
+                "Flow"
+            ]
+        },
+        {
+            "title": "Task Tracker",
+            "bodyText": "- A simple Task Tracker web app made with React.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/TENSAEA/Task-Tracker.git"
+                }
+            ],
+            "tags" : [
+"React"
+            ]
+        },
+        {
+            "title": "PHP Mini Project, Auth with Dashboard",
+            "bodyText": "- A PHP project with signup and login plus dashboard\n - PHP",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/TENSAEA/php-mini-auth-project.git"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "PHP",
+                "Mysql"
+            ]
+        }
+    ]
+}

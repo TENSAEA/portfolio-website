@@ -1,0 +1,13 @@
+{
+    "education":[
+        {
+            "title": "Jun 2021 - Jun 2024",
+            "cardTitle": "B.Tech, Information System",
+            "cardSubtitle":"Addis Ababa University, Addis Ababa",
+            "cardDetailedText": "CGPA - 3.65",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        }
+    ]
+}
