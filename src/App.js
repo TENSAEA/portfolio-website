@@ -17,7 +17,7 @@ import Skills from "./components/pages/skills";
 import Education from "./components/pages/education";
 import Experience from "./components/pages/experience";
 import Resume from "./components/pages/resume";
-
+import Project from "./components/pages/projects";
 // Define the light and dark themes directly in this file
 const lightTheme = createTheme({
   palette: {
@@ -61,6 +61,9 @@ function App() {
               <Button color="inherit" component={Link} to="/experience">
                 Experience
               </Button>
+              <Button color="inherit" component={Link} to="/projects">
+                Projects
+              </Button>
               <Button color="inherit" component={Link} to="/resume">
                 Resume
               </Button>
@@ -77,6 +80,7 @@ function App() {
           <Route path="/skills" element={<Skills />} />
           <Route path="/education" element={<Education />} />
           <Route path="/experience" element={<Experience />} />
+          <Route path="/projects" element={<Project />} />
           <Route path="/resume" element={<Resume />} />
           {/* Add other routes as needed */}
         </Routes>
