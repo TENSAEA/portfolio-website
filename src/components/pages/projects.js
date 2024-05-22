@@ -138,7 +138,7 @@ const projects = [
         href: "https://technologyofsocialscienceclubaau.wuaze.com/",
       },
     ],
-    tags: ["Kotlin", "Android", "MVVM", "Paging 3", "Coroutines", "Flow"],
+    tags: ["Wordpress", "Infinitefree"],
   },
   {
     image: tasktracker,
