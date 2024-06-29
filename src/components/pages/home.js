@@ -90,9 +90,10 @@ const Home = () => {
             }}
             variant="h5"
           >
-            I'm a{" "}
+            I'm{" "}
             <ReactTyped
               strings={[
+                "Information System Fresh Graduate of 2024",
                 "Full Stack Developer",
                 "WordPress Developer",
                 "MERN Stack Developer",

@@ -26,7 +26,7 @@ const Education = () => {
     title: "Jun 2021 - Jun 2024",
     cardTitle: "B.Tech, Information System",
     cardSubtitle: "Addis Ababa University, Addis Ababa",
-    cardDetailedText: "CGPA - 3.65",
+    cardDetailedText: ["CGPA - 3.59", "Exit-Exam - 78%"],
     icon: {
       src: LoremIpsumIcon,
     },
@@ -80,7 +80,11 @@ const Education = () => {
             </Box>
           </Box>
           <Typography variant="body2" sx={{ marginTop: 2 }}>
-            {educationItem.cardDetailedText}
+            {educationItem.cardDetailedText.map((text, index) => (
+              <Typography key={index} variant="body2" sx={{ marginTop: 2 }}>
+                {text}
+              </Typography>
+            ))}{" "}
           </Typography>
         </CardContent>
       </StyledCard>
