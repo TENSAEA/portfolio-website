@@ -72,6 +72,7 @@ const Home = () => {
             maxWidth: "100%",
             width: { xs: "100%", sm: "85%", md: "70%", lg: "55%", xl: "40%" },
             textAlign: { xs: "center", md: "left" },
+            marginLeft: "25px",
           }}
         >
           <NameTypography
